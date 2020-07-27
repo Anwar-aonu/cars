@@ -1,0 +1,36 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "BMW SERVICE AND FEATURES",
+        "modal": "Ernesto Valverde",
+        "maintenance": "1 year free check up & maintenance!",
+        "insurance": "50000/year"
+
+      },
+      {
+        "id": 2,
+        "name": " HONDA SERVICE AND FEATURES",
+        "modal": "Ernesto Valverde",
+        "maintenance": "0.5 year free check up & maintenance!",
+        "insurance": "30000/year"
+
+      },
+      {
+        "id": 3,
+        "name": " MARUTI SUZUKI SERVICE AND FEATURES",
+        "modal": "Ernesto Valverde",
+        "maintenance": "0.5 year free check up & maintenance!",
+        "insurance": "20000/year"
+
+      },
+      {
+        "id": 2,
+        "name": " MERCEDES SERVICE AND FEATURES",
+        "modal": "Ernesto Valverde",
+        "maintenance": "1 year free check up & maintenance!",
+        "insurance": "70000/year"
+
+      }
+    ]
+  }
